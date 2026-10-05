@@ -66,7 +66,7 @@ IT-Job-Market-Analysis/
 │   └── IT_Job_Market_Workbook.xlsx    # pivot tables + dashboard sheet
 ├── Power BI/
 │   └── IT Job Market Analysis Dashboard.pbix
-├── Project Report IT Job Market Analysis.docx
+├── IT_Job_Market_Project_Documentation.pdf
 ├── dashboard.png
 └── README.md
 ```
